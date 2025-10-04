@@ -3,7 +3,7 @@
 
 ![1748975916712](image/README/1748975916712.png)
 
-### What you will Learn...
+### ***What you will Learn...***
 
 #### 1) Use TypeScript and its Features like Types, ES6 Support, Classes, Modules, Interfaces and much more in any of their Projects
 #### 2) Understand what TypeScript really, it’s all about and how it works
